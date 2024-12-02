@@ -4,7 +4,7 @@
 #include <fstream>
 #include <string>
 #include <exception>
-#include <C:/SkillboxTasks/final_project/nlohmann_json/nlohmann_json/single_include/nlohmann/json.hpp> 
+#include "../nlohmann_json/nlohmann_json/single_include/nlohmann/json.hpp"
 
 
 class ConverterJSON {

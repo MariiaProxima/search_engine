@@ -1,6 +1,6 @@
 #include "pch.h"
-#include "C:/SkillboxTasks/final_project/search_engine/SearchServer.cpp"
-#include "C:/SkillboxTasks/final_project/search_engine/InvertedIndex.cpp"
+#include "../InvertedIndex.cpp"
+#include "../SearchServer.cpp"
 
 
 static void TestInvertedIndexFunctionality(
